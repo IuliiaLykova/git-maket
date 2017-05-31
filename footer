@@ -1,20 +1,20 @@
 <footer class="footer">
 	<div class="col__latest"><h6>Latest from the Blog</h6>
 
-		<div class="footer__block">
-		 <div class="footer__block-image"><img src=""></div>
-		  <div class="footer__block-title">title</div>
-		   <div class="footer__block-text">text</div>
+		<div class="col__latest-block">
+		 <div class="col__latest-image"><img src=""></div>
+		  <div class="col__latest-title">title</div>
+		   <div class="col__latest-text">text</div>
 		   </div>
-		<div class="footer__block">
-		 <div class="footer__block-image"><img src=""></div>
-		  <div class="footer__block-title">title</div>
-		   <div class="footer__block-text">text</div>
+		<div class="col__latest-block">
+		 <div class="col__latest-image"><img src=""></div>
+		  <div class="col__latest-title">title</div>
+		   <div class="col__latest-text">text</div>
 		   </div>
 	</div>
 	<div class="col_contact"><h6>Company details</h6>
 		<div class="block__contact"></div>
-		 <div class="block__contact"><a class="e-mail"></div>
+		 <div class="block__contact"><a class="e-mail"></a></div>
 		  <div class="block__contact"></div>
 	</div>
 	<div class="contact-us">
@@ -27,7 +27,7 @@
 		 <div class="textarea">
 		 	<textarea placeholder="Message"></textarea>
 		 </div>
-		 <button class="submit-button"></button>		
+		 <button class="button">submit</button>		
 	</div>
 	<hr>
 	<div class="underfooter">copyright</div>
