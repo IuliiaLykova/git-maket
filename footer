@@ -17,7 +17,7 @@
 		 <div class="block__contact"><a class="e-mail"></a></div>
 		  <div class="block__contact"></div>
 	</div>
-	<div class="contact-us">
+	<div class="contact-us"><h6>contact us</h6>
 		<form class="input">
 		 <input type="text" placeholder="name">
 		 </form>
