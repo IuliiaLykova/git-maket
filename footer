@@ -18,12 +18,12 @@
 		  <div class="block__contact"></div>
 	</div>
 	<div class="contact-us">
-		<div class="input">
+		<form class="input">
 		 <input type="text" placeholder="name">
-		 </div>
-		<div class="input">
+		 </form>
+		<form class="input">
 		 <input type="email" placeholder="Email">
-		 </div>
+		 </form>
 		 <div class="textarea">
 		 	<textarea placeholder="Message"></textarea>
 		 </div>
